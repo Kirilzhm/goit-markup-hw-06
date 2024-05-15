@@ -239,7 +239,7 @@ img{
     color: #fff;
     transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
     margin-top: 72px;
-    margin-left: 164px;
+    margin-left: 23px;
 }
 .hero-text{
     font-weight: 700;
@@ -267,7 +267,7 @@ img{
     }
     .button-to-buy{
         margin-top: 36px;
-
+        margin-left: 164px;
     }
 }
 
